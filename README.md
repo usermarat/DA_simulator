@@ -8,11 +8,11 @@ As a newly hired data analyst intern I would have to go through the whole proces
 1. [building essential dashboards](https://github.com/usermarat/DA_simulator/tree/main/1.Dashboards) considering:
 * product's (both news feed and messaging parts of the app) and user's overall data understanding,
 * operating performance and management's KPI monitoring;
-2. ad hoc product metric analysis, including:
+2. [ad hoc product metric analysis](https://github.com/usermarat/DA_simulator/tree/main/2.Product_metrics), including:
 * ads and organic audience traffic retention rate analysis,
 * marketing campaign results' analysis,
 * active audience sudden drop investigation;
-3. A/B testing for the new feature implementation, i.e.:
+3. [A/B testing for the new feature implementation](https://github.com/usermarat/DA_simulator/tree/main/3.AB_tests), i.e.:
 * prior A/A testing,
 * A/B testing with different approaches, including bootstrap, bucketization, linearization;
 4. ETL pipeline building using Airflow for automation;
@@ -24,6 +24,10 @@ As a newly hired data analyst intern I would have to go through the whole proces
 # Tech stack used during the course:
 * python,
 * pandas,
+* numpy,
+* matplotlib,
+* seaborn,
+* pandahouse,
 * scipy,
 * sql,
 * Click House,
