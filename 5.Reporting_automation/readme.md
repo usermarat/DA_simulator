@@ -19,7 +19,7 @@
 
 # Ответ
 
-* скрипт с запуском отправки отчета
+* [скрипт с запуском отправки отчета](https://github.com/usermarat/DA_simulator/blob/main/5.Reporting_automation/Task_7_1.py)
 * отправляемый отчет:
 
 ![Report](https://github.com/usermarat/DA_simulator/assets/87779469/5a813cc5-b50c-4213-aaab-0c489234483a)
@@ -32,7 +32,7 @@
 
 ![DAG sched](https://github.com/usermarat/DA_simulator/assets/87779469/1bda7917-4429-4c52-ba6b-d771de745599)
 
-* графики из отчета
+* [графики из отчета](https://github.com/usermarat/DA_simulator/tree/main/5.Reporting_automation/report_1)
 
 # Задание 2
 
@@ -48,7 +48,7 @@
 
 # Ответ
 
-* скрипт с запуском отправки отчета
+* [скрипт с запуском отправки отчета](https://github.com/usermarat/DA_simulator/blob/main/5.Reporting_automation/Task_7_2.py)
 * отправляемый отчет:
 
 ![Report 1](https://github.com/usermarat/DA_simulator/assets/87779469/0ad69db0-3bf5-4130-ac83-63021029dfcb)
@@ -67,4 +67,4 @@
 
 ![DAG sched](https://github.com/usermarat/DA_simulator/assets/87779469/68ece0e7-2180-4cab-bb07-f0201e56b89d)
 
-* графики из отчета
+* [графики из отчета](https://github.com/usermarat/DA_simulator/tree/main/5.Reporting_automation/report_2)
