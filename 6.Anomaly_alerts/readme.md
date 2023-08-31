@@ -15,18 +15,18 @@
 * [скрипт с автозапуском проверок](https://github.com/usermarat/DA_simulator/blob/main/6.Anomaly_alerts/Task_8.py)
 * график исполнения DAG:
 
-![DAG graph](https://github.com/usermarat/DA_simulator/assets/87779469/abb1debc-e296-4095-b2e2-f98fe9f5c58f)
+![DAG graph](https://github.com/usermarat/DA_simulator/assets/87779469/259a909c-f311-4dd8-a455-bedaeb4385d9)
 
 * примеры отработки алертов:
 
-![dau feed](https://github.com/usermarat/DA_simulator/assets/87779469/af8e98a6-92bf-4fd2-aa7d-8166c6e9dcb3)
+![dau feed](https://github.com/usermarat/DA_simulator/assets/87779469/1fd18bf0-1ab8-43d5-bfe6-7c15bcb8e984)
 
-![likes](https://github.com/usermarat/DA_simulator/assets/87779469/92d1c447-4b1c-4332-b4bf-c484193bafe0)
+![likes](https://github.com/usermarat/DA_simulator/assets/87779469/19ab554b-e0eb-4831-a7d5-c039520f64fb)
 
-![ctr](https://github.com/usermarat/DA_simulator/assets/87779469/6d98126c-3bb6-4857-a74d-34b6f0ef504c)
+![ctr](https://github.com/usermarat/DA_simulator/assets/87779469/a2d70f7f-833e-4dad-918c-72cea064213a)
 
-![dau](https://github.com/usermarat/DA_simulator/assets/87779469/dd5fb740-4e36-4d74-94e0-1e273ed2d66f)
+![dau](https://github.com/usermarat/DA_simulator/assets/87779469/a4b8ece6-96e8-4320-ad61-351400ee2688)
 
-![mess](https://github.com/usermarat/DA_simulator/assets/87779469/c8049587-3076-465c-a8db-cc211fd22817)
+![mess](https://github.com/usermarat/DA_simulator/assets/87779469/939fb286-b69a-4e6c-950c-79f0789c15b3)
 
 * [дашборд контролируемых показателей](https://github.com/usermarat/DA_simulator/blob/main/6.Anomaly_alerts/alert-dashboard.jpg)
