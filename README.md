@@ -15,11 +15,11 @@ As a newly hired data analyst intern I would have to go through the whole proces
 3. [A/B testing for the new feature implementation](https://github.com/usermarat/DA_simulator/tree/main/3.AB_tests), i.e.:
 * prior A/A testing,
 * A/B testing with different approaches, including bootstrap, bucketization, linearization;
-4. ETL pipeline building using Airflow for automation;
-5. app product metrics' reporting automation using:
+4. [ETL pipeline building using Airflow for automation](https://github.com/usermarat/DA_simulator/tree/main/4.ETL_airflow);
+5. [app product metrics' reporting automation](https://github.com/usermarat/DA_simulator/tree/main/5.Reporting_automation) using:
 * telegram bot API (constructing bot and sending report text and plots),
 * Airflow for daily running the scripts;
-6. real-time anomaly detection alerting system modeling and deploying.
+6. [real-time anomaly detection alerting system modeling and deploying](https://github.com/usermarat/DA_simulator/tree/main/6.Anomaly_alerts).
 
 # Tech stack used during the course:
 * python,
