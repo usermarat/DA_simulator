@@ -22,15 +22,15 @@
 * [скрипт с запуском отправки отчета](https://github.com/usermarat/DA_simulator/blob/main/5.Reporting_automation/Task_7_1.py)
 * отправляемый отчет:
 
-![Report](https://github.com/usermarat/DA_simulator/assets/87779469/5a813cc5-b50c-4213-aaab-0c489234483a)
+![Report](https://github.com/usermarat/DA_simulator/assets/87779469/ca0c3490-299d-49ad-a7b8-2f0bb6b6ec16)
 
 * схема получившегося DAG:
 
-![DAG graph](https://github.com/usermarat/DA_simulator/assets/87779469/590b253e-1962-4e99-bfcc-b2efb317153b)
+![DAG graph](https://github.com/usermarat/DA_simulator/assets/87779469/0d49d90b-12b1-4a58-acb5-e04a7d578e36)
 
 * график его исполнения:
 
-![DAG sched](https://github.com/usermarat/DA_simulator/assets/87779469/1bda7917-4429-4c52-ba6b-d771de745599)
+![DAG sched](https://github.com/usermarat/DA_simulator/assets/87779469/dc4a094a-5944-4125-a2b3-042cdab35627)
 
 * [графики из отчета](https://github.com/usermarat/DA_simulator/tree/main/5.Reporting_automation/report_1)
 
@@ -51,20 +51,20 @@
 * [скрипт с запуском отправки отчета](https://github.com/usermarat/DA_simulator/blob/main/5.Reporting_automation/Task_7_2.py)
 * отправляемый отчет:
 
-![Report 1](https://github.com/usermarat/DA_simulator/assets/87779469/0ad69db0-3bf5-4130-ac83-63021029dfcb)
+![Report 1](https://github.com/usermarat/DA_simulator/assets/87779469/fafbb866-9b1b-43ab-aae7-6d32a3222493)
 
-![Report 2](https://github.com/usermarat/DA_simulator/assets/87779469/c1438947-615e-4bf7-9f47-5b26dbfd14c4)
+![Report 2](https://github.com/usermarat/DA_simulator/assets/87779469/628e4df9-bc2f-4ccf-b100-e3c715e3605f)
 
-![Report 3](https://github.com/usermarat/DA_simulator/assets/87779469/f89f429c-33cb-4129-8a77-4a742cc4d2d6)
+![Report 3](https://github.com/usermarat/DA_simulator/assets/87779469/fc82db28-49cd-4f38-9fe2-b6abde32cbf9)
 
-![Report 4](https://github.com/usermarat/DA_simulator/assets/87779469/79a95f2e-f7f1-42fe-8c53-cb65cd23b8f2)
+![Report 4](https://github.com/usermarat/DA_simulator/assets/87779469/379121ae-f6a2-41c4-95e4-c061dc25c7f5)
 
 * схема получившегося DAG:
 
-![DAG graph](https://github.com/usermarat/DA_simulator/assets/87779469/bb3a0534-7495-4586-ad15-cc43a669b223)
+![DAG graph](https://github.com/usermarat/DA_simulator/assets/87779469/4cb2e142-d3c8-4c26-9f9a-5754bfe5ebd2)
 
 * график его исполнения:
 
-![DAG sched](https://github.com/usermarat/DA_simulator/assets/87779469/68ece0e7-2180-4cab-bb07-f0201e56b89d)
+![DAG sched](https://github.com/usermarat/DA_simulator/assets/87779469/66e9ef63-2d08-483a-8e79-f06dc728a56d)
 
 * [графики из отчета](https://github.com/usermarat/DA_simulator/tree/main/5.Reporting_automation/report_2)
