@@ -34,6 +34,6 @@ As a newly hired data analyst intern I would have to go through the whole proces
 * Redash,
 * SuperSet,
 * Airflow,
-* Jupiterhub,
+* JupyterHub,
 * Gitlab,
 * telegram bot API.
