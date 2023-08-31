@@ -10,52 +10,46 @@
 (по оси Х - когорты новых пользователей по дате начала использования приложения, по оси У - RR в процентах):
 * на 10ый день:
 
- ![10th-day-retention-rate](https://github.com/usermarat/DA_simulator/assets/87779469/77164f9c-20f9-4805-bee6-45d8119c2b8f)
+![10th-day-retention-rate](https://github.com/usermarat/DA_simulator/assets/87779469/567971c5-a07a-4943-a791-196106200873)
 
- 
 * на 30ый день:
 
- ![30-day-retention-rate](https://github.com/usermarat/DA_simulator/assets/87779469/53eaf1f4-5eb7-46dd-b89c-94682ff9f738)
-
+![30-day-retention-rate](https://github.com/usermarat/DA_simulator/assets/87779469/7d16e7c7-5be7-4ef8-a2b7-7703114abc45)
  
 * за 2ую неделю:
 
- ![1st-week-range-retention-rate](https://github.com/usermarat/DA_simulator/assets/87779469/d8f37be5-1c6c-401d-a9da-27b0d1a7ee6f)
-
+![1st-week-range-retention-rate](https://github.com/usermarat/DA_simulator/assets/87779469/80892047-8a35-4d39-aada-002d0e2dee0e)
  
 * за 6ую неделю:
 
- ![5th-week-range-retention-rate](https://github.com/usermarat/DA_simulator/assets/87779469/70b3a65d-1533-48df-8197-9ffcd9692214)
-
+![5th-week-range-retention-rate](https://github.com/usermarat/DA_simulator/assets/87779469/4ffe198e-312d-4d5b-a60a-6a4c65d4bd09)
 
 Кроме того, различие косвенно заметно по тепловым картам - по органике тепловая карта более темная в начале и к концу периода она светлеет не так сильно, как по рекламе:
 * органика:
 
- ![retention-organic](https://github.com/usermarat/DA_simulator/assets/87779469/4a54cc36-0b26-4e16-8b26-dd1f00a85938)
-
+![retention-organic](https://github.com/usermarat/DA_simulator/assets/87779469/811330c2-9537-4035-b1b1-48fd5cc38e23)
  
 * реклама:
 
- ![retention-ads](https://github.com/usermarat/DA_simulator/assets/87779469/efb7628b-3b34-4bbc-8ea2-850b15c9dcd8)
+![retention-ads](https://github.com/usermarat/DA_simulator/assets/87779469/f2c5e421-abe2-49f8-877e-2a3e48dd7da4)
 
- [Запросы в Click House для построения графиков](https://github.com/usermarat/DA_simulator/blob/main/2.Product_metrics/rr_querries.sql)
+[Запросы в Click House для построения графиков](https://github.com/usermarat/DA_simulator/blob/main/2.Product_metrics/rr_querries.sql)
 
- # Задание 2
+# Задание 2
 
- Маркетологи запустили массивную рекламную кампанию, в результате в приложение пришло довольно много новых пользователей, вы можете видеть всплеск на графике активной аудитории.
+Маркетологи запустили массивную рекламную кампанию, в результате в приложение пришло довольно много новых пользователей, вы можете видеть всплеск на графике активной аудитории.
 
- Однако у нас есть сомнение в качестве трафика, изучите, что стало с рекламными пользователями в дальнейшем, как часто они продолжают пользоваться приложением?
+Однако у нас есть сомнение в качестве трафика, изучите, что стало с рекламными пользователями в дальнейшем, как часто они продолжают пользоваться приложением?
 
- # Ответ
+# Ответ
 
 Всплеск притока рекламной аудитории идентифицирован на 13.06.23:
 
-![4-2-marketing-campaign](https://github.com/usermarat/DA_simulator/assets/87779469/e8bb0e96-837d-4c89-8726-1c23082ed8f5)
+![4-2-marketing-campaign](https://github.com/usermarat/DA_simulator/assets/87779469/7b50e96c-5320-45e0-92b1-05e25cbea020)
 
 Однако качество данной аудитории с точки зрения показателя Retention оказалось чрезвычайно низким - по данному графику можно посмотреть на динамику количества новых пользователей, пришедших 13го июня, в разрезе источников (DAU по когорте новых пользователей 13.06.23):
 
-![4-2-campaign-results](https://github.com/usermarat/DA_simulator/assets/87779469/2fa4e173-0717-40fa-afea-582fa5241988)
-
+![4-2-campaign-results](https://github.com/usermarat/DA_simulator/assets/87779469/05c51a31-4ff1-459b-82d9-d1ffebd42cb3)
 
 В целом, уже на второй день 14.06 можно видеть, что из всего количества данных новых "рекламных" пользователей в 3,69 тыс. чел. приложением пользовалось только 106 чел., что соответствует RR 2,8 %.
 
@@ -73,15 +67,15 @@
 
 Так же в первую очередь были проанализированы показатели активной аудитории в разрезе операционных систем используемых приложений с целью исключения технических неполадок - снижения наблюдались по обоим группам:
 
-![4-3-drop-investigation-os](https://github.com/usermarat/DA_simulator/assets/87779469/1259821f-38e8-4a22-b7aa-ab420dfa7063)
+![4-3-drop-investigation-os](https://github.com/usermarat/DA_simulator/assets/87779469/3307f465-8479-4a6d-94e5-c8ea468ebf4a)
 
 Далее были проанализированы данные показатели по географическому признаку в разрезе стран - по крупнейшим странам показатели оказались стабильными, за исключением аудитории России:
 
-![4-3-drop-investigation-country-all](https://github.com/usermarat/DA_simulator/assets/87779469/fd4f1121-a8ad-462f-8ba5-21f152f36c2c)
+![4-3-drop-investigation-country-all](https://github.com/usermarat/DA_simulator/assets/87779469/377deb22-3381-417e-98e8-9530a3406caa)
 
 DAU по России:
 
-![4-3-drop-investigation-country-rus](https://github.com/usermarat/DA_simulator/assets/87779469/d106c304-ee21-4863-8de0-69c94ec354ef)
+![4-3-drop-investigation-country-rus](https://github.com/usermarat/DA_simulator/assets/87779469/c2359c6e-4fa4-40c6-9f1a-73631e963c77)
 
 С помощью [данного запроса](https://github.com/usermarat/DA_simulator/blob/main/2.Product_metrics/drop_query.sql) была сформирована следующая таблица, из которой видно, что 22.06 в приложении полностью отсутствовали какие-либо пользователи из 4х крупных городов:
 
@@ -96,14 +90,13 @@ Yaroslavl	| 92	| 73	| 19
 
 Дополнительно это наглядно видно по данному графику: 
 
-![4-3-drop-investigation-5](https://github.com/usermarat/DA_simulator/assets/87779469/ebe3154c-4495-4ef6-a552-b73cc5ba2ed2)
+![4-3-drop-investigation-5](https://github.com/usermarat/DA_simulator/assets/87779469/4482986d-6c58-4e5b-bc03-2dda541a00c7)
 
 # Задание 4
 
 Требует составить запрос и построить следующий график, который позволяет взглянуть на активную аудиторию с точки зрения новых, старых и ушедших пользователей:
 
-![4-4-retention](https://github.com/usermarat/DA_simulator/assets/87779469/b097b50e-f1f8-40da-99ee-6ac37c999523)
-
+![4-4-retention](https://github.com/usermarat/DA_simulator/assets/87779469/91a9500b-ac2e-4009-b7cb-67f14b06a272)
 
 На графике отображена активная аудитория по неделям, для каждой недели выделены три типа пользователей:
 
