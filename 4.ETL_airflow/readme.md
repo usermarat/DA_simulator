@@ -42,9 +42,9 @@
 * [получившаяся таблица с ежедневными данными](https://github.com/usermarat/DA_simulator/blob/main/4.ETL_airflow/task6_ahmadeev.csv)
 * схема получившегося DAG:
 
-![DAG graph](https://github.com/usermarat/DA_simulator/assets/87779469/43ba5973-b5da-408f-9e2f-795b040555ad)
+![DAG graph](https://github.com/usermarat/DA_simulator/assets/87779469/d7126b47-f5f8-4e50-a95c-8e2d528cff27)
 
 * график его исполнения:
 
-![DAG sched](https://github.com/usermarat/DA_simulator/assets/87779469/8258540b-e282-4afb-88ad-e3d82bb868c2)
+![DAG sched](https://github.com/usermarat/DA_simulator/assets/87779469/49a0b80f-efb3-4d3f-9431-1c516f2722c2)
 
